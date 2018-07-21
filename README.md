@@ -5,3 +5,4 @@ This is a project from section 4 of The Unreal Engine Developement Course from U
 ##Lecture List
 * BT 01 - Intro, Notes, & Section 4 Assets
 * BT 02 - Game Design Document (GDD)
+* BT 03 - Setting Up a GitHub "Repo"
